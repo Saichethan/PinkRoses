@@ -1,6 +1,6 @@
 # PinkRoses
 
-![Breast Cancer](images/thumb_images.jpeg)
+![Breast Cancer](images/images.jpeg)
 
 Web application for awareness of breast cancer
 
