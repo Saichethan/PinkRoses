@@ -7,13 +7,13 @@ Web application for awareness of breast cancer
 
 ## Specifications
 
-* Syptoms
-* Prevention
-* Diagnosis
-* Possible Reasons
-* Testimonials
-* Support
-* FAQ'S
+* [Syptoms](https://github.com/Saichethan/PinkRoses/wiki/Symptoms)
+* [Prevention](https://github.com/Saichethan/PinkRoses/wiki/Prevention)
+* [Diagnosis](https://github.com/Saichethan/PinkRoses/wiki/Diagnosis)
+* [Possible Reasons](https://github.com/Saichethan/PinkRoses/wiki/Possible Reasons)
+* [Testimonials](https://github.com/Saichethan/PinkRoses/wiki/Testimonials)
+* [Support](https://github.com/Saichethan/PinkRoses/wiki/Support)
+* [FAQ'S](https://github.com/Saichethan/PinkRoses/wiki/FAQ'S)
 
 
 ### Goals
