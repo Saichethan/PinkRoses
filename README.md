@@ -1,6 +1,7 @@
 # PinkRoses
 
 ![Breast Cancer](images/thumb_images.jpeg)
+
 Web application for awareness of breast cancer
 
 
@@ -21,3 +22,6 @@ Web application for awareness of breast cancer
 * Diagnosis using Machine Learning Technics (2019-2020)
 * Improvement of diagnosis (2020-2021)
 * Progressive Web App of fully updated Application (2020-2021)
+
+
+>> This may take lot of time for me to complete all alone, with your contribution we could make it soon!
