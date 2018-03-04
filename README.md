@@ -24,4 +24,4 @@ Web application for awareness of breast cancer
 * Progressive Web App of fully updated Application (2020-2021)
 
 
->> This may take lot of time for me to complete all alone, with your contribution we could make it soon!
+> Interested in Project go through Wiki for more information
