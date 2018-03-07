@@ -14,6 +14,8 @@ Web application for awareness of breast cancer
 * [Testimonials](https://github.com/Saichethan/PinkRoses/wiki/Testimonials)
 * [Support](https://github.com/Saichethan/PinkRoses/wiki/Support)
 * [FAQ'S](https://github.com/Saichethan/PinkRoses/wiki/FAQ'S)
+* [Stages]()
+* [Types]()
 
 
 ### Goals
