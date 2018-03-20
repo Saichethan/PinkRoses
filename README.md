@@ -20,10 +20,10 @@ Web application for awareness of breast cancer
 ![Pink Roses](images/roses.jpeg)
 ### Goals
 
-* Web Apllication for awareness (2018-2019)
-* Diagnosis using Machine Learning Technics (2019-2020)
-* Improvement of diagnosis (2020-2021)
-* Progressive Web App of fully updated Application (2020-2021)
+* Web Apllication for awareness 
+* Financial support information and Moral aid
+* Diet for prevention
+* Progressive Web App of fully updated Application 
 
 
 > Interested in Project go through Wiki for more information
