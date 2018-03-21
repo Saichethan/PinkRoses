@@ -17,7 +17,7 @@ Web application for awareness of breast cancer
 * [Stages](https://github.com/Saichethan/PinkRoses/blob/master/wiki/Stages.md)
 * [Types](https://github.com/Saichethan/PinkRoses/blob/master/wiki/Types.md)
 
-![Pink Roses](images/roses.jpeg)
+![Pink Roses](images/roses.png)
 ### Goals
 
 * Web Apllication for awareness 
