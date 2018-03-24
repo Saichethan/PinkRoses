@@ -17,6 +17,14 @@ Web application for awareness of breast cancer
 * [Stages](https://github.com/Saichethan/PinkRoses/blob/master/wiki/Stages.md)
 * [Types](https://github.com/Saichethan/PinkRoses/blob/master/wiki/Types.md)
 
+
+## Why?
+
+* Increasing number of cases at alarming rate.
+* Diagnosis models are trained on data of only 3% of people (in US lesser in other).
+* Changes in life style and enivornment.
+* one in four victims die due to lack of quality data (less data less features to classify).
+
 ![Pink Roses](images/roses.png)
 ### Goals
 
