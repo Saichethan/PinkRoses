@@ -1,3 +1,4 @@
+{% seo %}
 # PinkRoses
 
 ![Breast Cancer](images/images.jpeg)
