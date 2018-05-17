@@ -1,1 +1,16 @@
 theme: jekyll-theme-cayman
+title: PinkRoses
+description: Learn all about breast cancer: what it is, how to detect it and diagnose it, the different types and stages of breast cancer, and answers to common questions.
+url: https://saichethan.github.io/PinkRoses/
+author: Saichethan Reddy
+logo: https://saichethan.github.io/PinkRoses/images/images.jpeg
+image: https://saichethan.github.io/PinkRoses/images/roses.png
+social:
+  name: Saichethan Reddy
+  links:
+  -https://github.com/Saichethan
+  -https://saichethan.github.io
+  -https://www.linkedin.com/in/saichethan-reddy-miriyala/
+  -https://m.facebook.com/SaichethanReddy.Miriyal
+  -https://twitter.com/SaichethanRedd
+  
