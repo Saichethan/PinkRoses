@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 plugins:
-  - jekyll-seo-tag
+- jekyll-seo-tag
 title: PinkRoses
 description: "Learn all about breast cancer: what it is, how to detect it and diagnose it, the different types and stages of breast cancer, and answers to common questions."
 url: https://saichethan.github.io/PinkRoses/
