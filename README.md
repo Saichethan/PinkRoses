@@ -1,4 +1,4 @@
-{% seo %}
+
 # PinkRoses
 
 ![Breast Cancer](images/images.jpeg)
@@ -8,8 +8,8 @@ Web application for awareness of breast cancer
 
 ## Specifications
 
-* [Symptoms](https://github.com/Saichethan/PinkRoses/blob/master/wiki/Symptoms.md){: .btn}
-* [Prevention](https://github.com/Saichethan/PinkRoses/blob/master/wiki/Prevention.md){: .btn}
+* [Symptoms](https://github.com/Saichethan/PinkRoses/blob/master/wiki/Symptoms.md)
+* [Prevention](https://github.com/Saichethan/PinkRoses/blob/master/wiki/Prevention.md)
 * [Diagnosis](https://github.com/Saichethan/PinkRoses/blob/master/wiki/Diagnosis.md)
 * [Causes](https://github.com/Saichethan/PinkRoses/blob/master/wiki/Causes.md)
 * [Testimonials](https://github.com/Saichethan/PinkRoses/wiki/Testimonials)
